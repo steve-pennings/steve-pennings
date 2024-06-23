@@ -10,3 +10,5 @@ I’m a software engineer on the platform team at Appshare. We mostly work on cr
 - 👀 Got a high focus on UX/UI/DX
 - 🤝🏻 Constantly think about how to accelerate development as a team
 - 🎨 Often delve into graphic design, including logos, wallpapers, and more
+
+While my proficiency spans full-stack development, my true expertise lies in front-end development, where my skills in design, prototyping, and implementation shine.

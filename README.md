@@ -1,4 +1,4 @@
-## Hi there, I'm Steve 👋
+## Hi there, I'm Steve 👋🏼
 
 I’m a software engineer on the platform team at Appshare. We mostly work on creating small apps for warehouse use.
 

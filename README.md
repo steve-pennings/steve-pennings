@@ -5,8 +5,8 @@ I’m a software engineer on the platform team at Appshare. We mostly work on cr
 #### I...
 - 🦥 Love playing games and watching movies/tv shows
 - 💪🏼 Occasionaly workout/meditate
-- 🔭 Work on improving my infrastructural thinking
+- 🔭 Am dedicated to refining my strategic infrastructure thinking
 - 💅🏼 Develop/maintain various navigational/input/display components
 - 👀 Got a high focus on UX/UI/DX
-- 🤝🏻 Constantly think how to accelerate development as a team
-- 🎨 Have created and love to sulk into graphical design logo's, wallpapers, et cetera...
+- 🤝🏻 Constantly think about how to accelerate development as a team
+- 🎨 often delve into graphic design, including logos, wallpapers, and more
